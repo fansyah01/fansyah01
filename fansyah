@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selamat Ulang Tahun, Siti Munawarah!</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f3f3;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #ff69b4;
+            margin-bottom: 20px;
+        }
+        .message {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .romantic {
+            font-style: italic;
+            color: #ff1493;
+            margin-bottom: 20px;
+        }
+        .prayer {
+            background-color: #ffe4e1;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .date {
+            font-weight: bold;
+            color: #ff69b4;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Selamat Ulang Tahun, Siti Munawarah!</h1>
+        
+        <p class="message">
+            Hari ini, <span class="date">29 September</span>, adalah hari yang istimewa karena dunia dianugerahi kehadiranmu. Selamat ulang tahun, sayangku!
+        </p>
+        
+        <p class="romantic">
+            "Cintaku padamu seperti angka setelah 29 September dalam kalender kehidupanku; selalu bertambah setiap harinya."
+        </p>
+        
+        <p class="message">
+            Siti, kehadiranmu dalam hidupku bagaikan mentari yang selalu menyinari hari-hariku. Senyummu adalah kekuatan yang mendorongku untuk menjadi versi terbaik diriku.
+        </p>
+        
+        <div class="prayer">
+            <p>Doa Ulang Tahun untuk Siti Munawarah:</p>
+            <p>"Ya Allah, limpahkanlah keberkahan, kesehatan, dan kebahagiaan kepada Siti Munawarah. Panjangkanlah umurnya dalam ketaatan kepada-Mu, mudahkanlah segala urusannya, dan jadikanlah dia pribadi yang selalu bermanfaat bagi sesama. Aamiin."</p>
+        </div>
+        
+        <p class="message">
+            Semoga di usia barumu ini, kita bisa terus bersama-sama menggapai mimpi dan cita-cita. Aku berjanji akan selalu ada di sampingmu, dalam suka maupun duka.
+        </p>
+        
+        <p class="romantic">
+            "Setiap detak jantungku adalah untaian doa dan harapan terbaik untukmu, Siti Munawarah."
+        </p>
+        
+        <p class="message">
+            Selamat ulang tahun sekali lagi, cintaku. Semoga tahun ini membawa lebih banyak kebahagiaan, kesuksesan, dan cinta dalam hidupmu.
+        </p>
+    </div>
+</body>
+</html>
